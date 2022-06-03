@@ -164,6 +164,9 @@ wsa://com.android.settings
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | Geometry Dash | 2.11 | 11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
+| Geometry Dash Meltdown | 1.03 | 11 | ✅ | Keyboard can't be used, clicking/tapping during gameplay is only possible.
+| Geometry Dash SubZero | 1.00 | 11 | ✅ | Keyboard can't be used, clicking/tapping during gameplay is only possible.
+| Geometry Dash World | 1.04 | 11 | ✅ | Keyboard can't be used, clicking/tapping during gameplay is only possible.
 | Girls' Frontline (EN) | 2.0702_362 (362) | 11 | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
 | Gmail | 2022.03.06.437126241.Release | 11 | ✅ || May require GMS
